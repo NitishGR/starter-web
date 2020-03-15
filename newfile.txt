@@ -1,2 +1,0 @@
-This is a text file, which wiull be added to git staging area and then commited.
-File will be deleted after commit
