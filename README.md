@@ -2,6 +2,7 @@
 This is a sampleproject to learn git and github
 
 ## Introudction
+This is a sampleproject to learn git and github
 
 
 ## Purpose
