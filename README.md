@@ -12,6 +12,7 @@ Adding purpse to the project
 Deployming the code to ..
 
 ## How to COntribute
+Forkthis repo
 
 ## Copyright
 Added copyright notice
