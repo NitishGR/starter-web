@@ -12,3 +12,6 @@ Adding purpse to the project
 Deployming the code to ..
 
 ## How to COntribute
+
+## Copyright
+Added copyright notice
