@@ -3,7 +3,7 @@ This is a sampleproject to learn git and github
 
 ## Introudction
 This is a sampleproject to learn git and github
-
+Learn git with this tutorial
 
 ## Purpose
 Adding purpse to the project
