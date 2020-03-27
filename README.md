@@ -9,6 +9,8 @@ This tutorial is for beginners to expert
 ## Purpose
 Adding purpse to the project
 Learning stashing concepts
+Emergency fix
+
 
 ## Deployment
 Deployming the code to ..
